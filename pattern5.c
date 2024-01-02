@@ -25,7 +25,7 @@ void print5i(int n ){
     }
 }
 void print5ii(int n ){
-    for(int i = n-1; i<=n ; i ++){
+    for(int i = 0 ; i<=n ; i ++){
         for(int j = 1; j<=i; j ++){
             printf(" ");
         }
